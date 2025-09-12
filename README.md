@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Jeverton monteiro</h1>
+<h1 align="center">Olá 👋, sou Jeverton monteiro</h1>
 <hr>
 
 <p>Desenvolvedor front-end, residente em Santana do Ipanema, Alagoas, Brasil </p>
