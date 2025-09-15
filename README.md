@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JevertonMonteiro" alt="jevertonmonteiro" /></a> </p>
 
-<h3 align="left">ferramentas:</h3>
+<h3 align="left">Habilidades:</h3>
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40" height="40"/> </a>
 
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="40" height="40"/> </a>
