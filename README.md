@@ -47,6 +47,23 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JevertonMonteiro" alt="JevertonMonteiro Streak" />
 </p>
-## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JevertonMonteiro&theme=dark&hide_border=false&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
----
+## 📬 Conecte-se comigo  
+
+<p>
+  <a href="https://www.linkedin.com/in/jeverton-silva-13004a28b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn logo"/>
+  </a>&nbsp;
+  
+  <a href="mailto:easywebcode36@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail logo"/>
+  </a>&nbsp;
+  
+  <a href="https://www.instagram.com/easy_web_code" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram logo"/>
+  </a>&nbsp;
+  
+  <a href="https://github.com/raposoofc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub logo"/>
+  </a>&nbsp;
+</p>
+
