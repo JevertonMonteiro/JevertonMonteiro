@@ -49,11 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JevertonMonteiro&show_icons=true&locale=en" alt="JevertonMonteiro Stats" />
 </p>
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JevertonMonteiro&theme=dark&hide_border=false&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
-
----
-
 ## 📬 Conecte-se comigo  
 
 <p align="center">
