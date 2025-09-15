@@ -16,16 +16,13 @@
 <h3 align="left">Habilidades:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="HTML5" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40" height="40" alt="HTML5" />
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="40" height="40" alt="CSS3" />
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://www.pngitem.com/pimgs/m/171-1718042_javascript-logo-png-transparent-png.png" width="40" height="40" alt="JavaScript" />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React" />
   </a>
 </p>
 
