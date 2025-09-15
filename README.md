@@ -24,6 +24,12 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://www.pngitem.com/pimgs/m/171-1718042_javascript-logo-png-transparent-png.png" width="40" height="40" alt="JavaScript" />
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="React" />
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40" height="40" alt="Firebase" />
+  </a>
 </p>
 
 <p align="left">
