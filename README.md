@@ -54,17 +54,13 @@ Gosto de transformar ideias em projetos reais e estou sempre evoluindo minhas ha
 
 ## 📊 Estatísticas
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JevertonMonteiro&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JevertonMonteiro&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JevertonMonteiro&show_icons=true" />
-</picture>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JevertonMonteiro&show_icons=true&locale=en&layout=compact" alt="JevertonMonteiro Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JevertonMonteiro&show_icons=true&locale=en" alt="JevertonMonteiro Stats" />
+</p>
 
 ---
 
