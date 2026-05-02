@@ -1,70 +1,84 @@
 <h1 align="center">Olá 👋, sou Jeverton Monteiro</h1>
-<hr>
-
-<p align="center"><strong>Desenvolvedor Front-End</strong>, residente em Santana do Ipanema, Alagoas, Brasil</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JevertonMonteiro&label=Profile%20views&color=0e75b6&style=flat" alt="JevertonMonteiro" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JevertonMonteiro" alt="JevertonMonteiro" />
-  </a>
+💻 Desenvolvedor Front-End focado em React <br>
+🚀 Buscando minha primeira oportunidade na área <br>
+📚 Atualmente estudando APIs, projetos completos e boas práticas
 </p>
 
 ---
 
-## 🚀 Habilidades
+## 🚀 Sobre mim
+
+Sou um desenvolvedor front-end apaixonado por criar interfaces modernas, responsivas e funcionais.  
+Gosto de transformar ideias em projetos reais e estou sempre evoluindo minhas habilidades com foco no mercado.
+
+---
+
+## 🧠 Habilidades
 
 ### 🌐 Front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
 </p>
 
-### ⚙️ Back-end / Banco de dados
+### ⚙️ Backend básico
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
 </p>
 
 ### 🛠️ Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
 </p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📌 Projetos em destaque
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JevertonMonteiro&show_icons=true&locale=en&layout=compact" alt="JevertonMonteiro Top Languages" />
+> ⚠️ (Atualize com seus projetos reais)
+
+- 🛒 **E-commerce em React**  
+  Aplicação com listagem de produtos e carrinho  
+  🔗 Link: [coloque aqui]
+
+- 📱 **App de Tarefas (To-do List)**  
+  CRUD completo com armazenamento local  
+  🔗 Link: [coloque aqui]
+
+- 🌐 **Portfólio pessoal**  
+  Site responsivo apresentando seus projetos  
+  🔗 Link: [coloque aqui]
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JevertonMonteiro&show_icons=true&locale=pt-br" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JevertonMonteiro&show_icons=true&locale=en" alt="JevertonMonteiro Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JevertonMonteiro&layout=compact&locale=pt-br" />
 </p>
 
-## 📬 Conecte-se comigo  
+---
+
+## 📬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeverton-silva-13004a28b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn logo"/>
-  </a>&nbsp;
-  
-  <a href="mailto:easywebcode36@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail logo"/>
-  </a>&nbsp;
-  
-  <a href="https://www.instagram.com/easy_web_code" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram logo"/>
-  </a>&nbsp;
-  
-  <a href="https://github.com/JevertonMonteiro" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub logo"/>
-  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/jeverton-silva-13004a28b">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="mailto:easywebcode36@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+  <a href="https://www.instagram.com/easy_web_code">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
 </p>
