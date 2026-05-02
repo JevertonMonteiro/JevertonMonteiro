@@ -60,7 +60,7 @@ Gosto de transformar ideias em projetos reais e estou sempre evoluindo minhas ha
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JevertonMonteiro&show_icons=true&locale=pt-br" />
+  <img src="https://streak-stats.demolab.com?user=JevertonMonteiro" />
 </p>
 
 <p align="center">
