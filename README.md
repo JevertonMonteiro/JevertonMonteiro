@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Jeverton Monteiro</h1>
 
 <p align="center">
-💻 Desenvolvedor Front-End focado em React <br>
+💻 Desenvolvedor Front-End em desenvolvimento, com foco em evolução contínua e construção de projetos reais <br>
 🚀 Buscando minha primeira oportunidade na área <br>
 📚 Atualmente estudando APIs, projetos completos e boas práticas
 </p>
