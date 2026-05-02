@@ -64,7 +64,7 @@ Gosto de transformar ideias em projetos reais e estou sempre evoluindo minhas ha
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JevertonMonteiro&layout=compact&locale=pt-br" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=JevertonMonteiro&layout=compact&locale=pt-br" />
 </p>
 
 ---
