@@ -41,19 +41,14 @@ Gosto de transformar ideias em projetos reais e estou sempre evoluindo minhas ha
 
 ## 📌 Projetos em destaque
 
-> ⚠️ (Atualize com seus projetos reais)
+- 💈 **Barbearia**    
+  🔗 Link: https://barbeariadompedro.netlify.app/
 
-- 🛒 **E-commerce em React**  
-  Aplicação com listagem de produtos e carrinho  
-  🔗 Link: [coloque aqui]
+- 📱 **Agência Digital**   
+  🔗 Link: https://easywebcode.netlify.app/
 
-- 📱 **App de Tarefas (To-do List)**  
-  CRUD completo com armazenamento local  
-  🔗 Link: [coloque aqui]
-
-- 🌐 **Portfólio pessoal**  
-  Site responsivo apresentando seus projetos  
-  🔗 Link: [coloque aqui]
+- 🌐 **Portfólio pessoal** 
+  🔗 Link: https://jevertonmonteiro.github.io/portifolio/
 
 ---
 
@@ -75,7 +70,7 @@ Gosto de transformar ideias em projetos reais e estou sempre evoluindo minhas ha
   <a href="https://www.linkedin.com/in/jeverton-silva-13004a28b">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <a href="mailto:easywebcode36@gmail.com">
+  <a href="mailto:jevertonfamilia@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
   <a href="https://www.instagram.com/easy_web_code">
